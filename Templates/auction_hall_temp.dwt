@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Privett Village Hall</title>
+<!-- TemplateEndEditable -->
+<link href="../hall_styles.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="container">
+  <div id="headerPic">
+    <img src="../originals/Tree branch.jpg" width="407" height="202" alt="Tree Branch" />
+  </div>
+  <div id="headerEvent">
+    <p class="header">Next Event:  </p>
+    <p><span class="bold">6th June 2015 <br />
+      Barn Dance<br />
+    </span>See Events Page for  details</p>
+    <p><span class="bold">Starting 4th  June 2015<br />
+      Circuit Training Class<br />
+    </span>See Latest News Page for  details  </p>
+  </div>
+<br class="clearfloat" />
+  <div id="heading">
+    <p>Privett Village Hall</p>
+  </div>
+  <div id="nav">
+    <ul>
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../latest_news/index.html">Latest News</a></li>
+      <li><a href="../events/index.html">Events</a></li>
+      <li><a href="../contact/index.html">Contact</a></li>
+      <li><a href="../renovation/index.html">Renovation</a></li>
+      <li><a href="../minutes/index.html">Minutes</a></li>
+      <li><a href="../picture_gallery/image_1.html">Gallery</a></li>
+      <li><a href="../Gift Aid.pdf">Gift Aid</a></li>
+      </ul>
+  </div>
+  <p><br class="clearfloat" />
+  </p>
+  <div class="fb-like" data-href="http://www.facebook.com/PrivettVillageHall" data-send="false" data-width="450" data-show-faces="false" data-font="arial"></div><br />
+  <div id="picture"><!-- TemplateBeginEditable name="pictureRegion" -->
+  Picture<!-- TemplateEndEditable --></div>
+  <div id="pageHeader"><!-- TemplateBeginEditable name="pageHeader" -->Page Header<!-- TemplateEndEditable --></div>
+  <br class="clearfloat" />
+<div id="nextEvent"><!-- TemplateBeginEditable name="nextEvent" -->Next Event<!-- TemplateEndEditable --></div>
+  <div id="eventsDates"><!-- TemplateBeginEditable name="eventDates" -->Event Dates<!-- TemplateEndEditable --></div>
+  <div id="events"><!-- TemplateBeginEditable name="events" -->Events<!-- TemplateEndEditable --></div>
+  <br class="clearfloat" />
+  <div id="mainContent"><!-- TemplateBeginEditable name="mainText" -->
+  Main Text<!-- TemplateEndEditable --></div> 
+<br class="clearfloat" />
+  <div id="bottomPic">
+    <img src="../originals/Grassy bottom.jpg" width="780" height="166" alt="Grass" />
+  </div>
+</div>
+</body>
+</html>

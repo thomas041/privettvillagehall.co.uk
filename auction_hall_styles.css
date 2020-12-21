@@ -1,0 +1,243 @@
+@charset "utf-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: #000;
+	background-color: #FFF;
+	margin: 0px;
+	padding: 0px;
+}
+.clearfloat {
+	font-size: 1px;
+	line-height: 0px;
+	margin: 0px;
+	clear: both;
+	height: 0px;
+}
+
+#events ul {
+	margin: 0px;
+	padding: 0px;
+}
+#events li {
+	list-style-type: none;
+}
+#eventsDates ul {
+	margin: 0px;
+	padding: 0px;
+}
+#eventsDates li {
+	list-style-type: none;
+}
+
+
+#container {
+	width: 780px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #CED9BB;
+}
+.eventsList {
+	text-align: center;
+}
+
+#eventsDates a:link, #eventsDates a:visited {
+	color: #900;
+	text-decoration: none;
+}
+#mainContent a:link, #mainContent a:visited {
+	color: #900;
+	text-decoration: none;
+}
+#eventsDates a:hover, #eventsDates a:focus, #eventsDates a:active {
+	color: #009;
+}
+#mainContent a:hover, #mainContent a:focus, #mainContent a:active {
+	color: #009;
+}
+
+#event a:hover, #event a:focus, #event a:active {
+	color: #009;
+	text-decoration: none;
+}
+#nav {
+	width: 777px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+}
+#nav ul {
+	margin: 0px;
+	padding: 0px;
+}
+#nav ul li {
+	list-style-type: none;
+	float: left;
+	background-color: #696;
+	border: 1px solid #333;
+	position: relative;
+}
+#nav ul li a {
+	color: #900;
+	width: 95px;
+	text-align: center;
+	height: 20px;
+	text-decoration: none;
+	line-height: 20px;
+	display: block;
+}
+
+#nextEvent a:hover, #nextEvent a:focus, #nextEvent a:active {
+	color: #009;
+	text-decoration: none;
+}
+
+
+
+
+#headerEvent {
+	float: right;
+	width: 230px;
+	margin-top: 20px;
+	margin-right: 40px;
+	background-color: #FFF;
+	border: 1px solid #900;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+#heading {
+	text-align: center;
+	padding: 0px;
+	width: 680px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 300%;
+	height: 70px;
+	line-height: 20px;
+}
+
+#picture {
+	float: right;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#eventsDates {
+	float: right;
+	width: 250px;
+	margin-right: 50px;
+}
+
+#mainContent {
+	text-align: justify;
+	width: 680px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#nextEvent {
+	text-align: justify;
+	padding: 0px;
+	width: 680px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#events {
+	float: left;
+	width: 429px;
+	margin-left: 50px;
+}
+#dates {
+	margin-left: 65px;
+}
+#event {
+	margin-left: 40px;
+}
+
+
+#bottomPic {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+}
+
+
+#headerPic {
+	width: 407px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 202px;
+}
+.header {
+	font-size: 150%;
+}
+#pageHeader {
+	font-size: 200%;
+	margin-right: 0px;
+	margin-left: 60px;
+	height: 250px;
+	line-height: 230px;
+	text-align: center;
+	width: 250px;
+	float: left;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.centertextheader {
+	font-size: 150%;
+	text-align: center;
+}
+
+.bold {
+	font-weight: bold;
+}
+#Map {
+	margin-left: 50px;
+}
+.rightImg {
+	float: right;
+	padding-left: 20px;
+}
+.leftimg {
+	float: left;
+	padding-right: 20px;
+}
+#event a:link, #event a:visited {
+	color: #900;
+	text-decoration: none;
+}
+#nav ul li a:hover, #nav ul li a:focus, #nav ul li a:active {
+	background-color: #6C6;
+}
+
+#nextEvent a:link, #nextEvent a:visited {
+	color: #900;
+	text-decoration: none;
+}
+
+.centertext {
+	text-align: center;
+	font-weight: bold;
+
+}
+.Giftaid {
+	font-size: 75%;
+	font-style: italic;
+}
