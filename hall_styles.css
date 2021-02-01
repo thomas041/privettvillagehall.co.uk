@@ -431,3 +431,10 @@ ul{
   clear: both;
   display: table;
 }
+
+.horizline
+ {
+        background-color: #fff;
+        border-top: 2px dashed #095484;
+      }
+
